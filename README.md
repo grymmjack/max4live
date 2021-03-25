@@ -5,4 +5,4 @@ Free to use however you want/need. No support though! (I don't have these device
 Contains my Max for Live Devices I create.
 
 - [KORG MS-2000](https://github.com/grymmjack/max4live/tree/main/MS-2000)
-- [KORG microKORG]((https://github.com/grymmjack/max4live/tree/main/microKORG)
+- [KORG microKORG](https://github.com/grymmjack/max4live/tree/main/microKORG)
